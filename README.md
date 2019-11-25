@@ -86,3 +86,13 @@ $(document).reay(function(){
 
 ## 淘宝链接
 <https://taobao.com>
+
+## 高级链接(有问题)
+[百度] [1]  
+[淘宝] [2]  
+[1]: https://baidu.com  
+[2]: https://taobao.com
+
+## 图片链接
+IU<img src="C:/Users/Acer/Desktop/timg.jpg" width="50%">
+
