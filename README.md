@@ -94,5 +94,4 @@ $(document).reay(function(){
 [2]: https://taobao.com
 
 ## 图片链接
-IU<img src="C:/Users/Acer/Desktop/timg.jpg" width="50%">
-
+<img src="./timg.jpg" width="50%" title="IU"></img>
